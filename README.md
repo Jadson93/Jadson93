@@ -2,9 +2,8 @@
 
 <p align="left"> 
   
-  Olá sou Jadson tenho 28 anos e estou em busca de uma oportunidade de estagio, 
-  atualmente trabalho em uma multinacional como operador de equipamentos, estou na empresa desde 2014
-  e estou cursando Engenharia de Software, primeiro semestre.
+  Olá sou Jadson tenho 30 anos e estou em busca de uma oportunidade de estágio, 
+  atualmente trabalho na área logística, estou cursando Engenharia de Software, segundo semestre.
 </p>
 
 <p align="left">
